@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Titambire
 
-You can use the [editor on GitHub](https://github.com/babatana/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a CCNA-certified aspiring Network Engineer. I am currently at St. College where I work with the Mathematics, Computer Science and Statistics Department as a system/network admin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
+#### Networking
+1. Built and maintained a multi-VLAN 10 Gig production network
+2. Home Lab
 
-### Markdown
+#### Web
+1. **SIIA**
+- State: In Progress
+- Description: 
+- Tools and Languages
+  - Django (Python)
+  - Terraform
+  - CloudInit
+  - Libvirt with KVM
+  - Bash
+  - HTML, CSS, JS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. **BCCM Website**
+- State: Completed
+- Description:
+- Tools used:
+  - Django (Python)
 
-```markdown
-Syntax highlighted code block
+3. Tsoro 
+- State: Idea
+- Description: Board game solver using z3
+- Tools used:
+  - Java
+  - z3 Solver
 
-# Header 1
-## Header 2
-### Header 3
+### Open-Source Contributions
+1. [Stograde](https://github.com/stograde/stograde/graphs/contributors)
+- My contributions
+  - Adding new features
+  - Testing
+  - Deploying new version via Jenkins
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/babatana/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+You can contact me by email: t.khondowe@gmail.com
+Here is my [LinkedIn](https://www.linkedin.com/in/tanaka-khondowe-b91595139/).
